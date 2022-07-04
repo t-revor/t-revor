@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t-revor
 - 👀 I’m interested in statistics, machine learning, gameboy modding and marine biology.
-- 🌱 I’m currently learning electronics.
+- 🌱 I’m currently learning electronics and C.
 - 📫 How to reach me: TauReaver#8096 on Discord
 - ⚽ 2022 goals: Graduating, getting a job in Data Science and practicing soldering.
 
