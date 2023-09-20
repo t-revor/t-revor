@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistics, machine learning, gameboy modding and marine biology.
 - 🌱 I’m currently learning LLMs.
 - 📫 How to reach me: TauReaver#8096 on Discord
-- ⚽ 2023 goals: Graduating, getting a job in Data Science and move to a new house.
+- ⚽ 2023 goals: Graduating, getting a job in Data Science(DONE!) and move to a new house(DONE!).
 
 <!---
 t-revor/t-revor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
